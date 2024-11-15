@@ -38,8 +38,6 @@ I'm working on an EDA project focused on analyzing and visualizing data to uncov
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fthenri&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fthenri&theme=radical)
-
 ---
 
 ## Connect with Me:
