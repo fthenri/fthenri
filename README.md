@@ -11,7 +11,7 @@ I'm working on an EDA project focused on analyzing and visualizing data to uncov
 
 ### 🛠️ Tech Stack & Tools I’m proficient with:
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
