@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2800&pause=4000&color=9820C4&center=true&vCenter=true&width=940&lines=Hi there!+I'm++Henrique+✌(-‿-)✌" alt="Hi there! I'm Henrique ✌(-‿-)✌" width="100%" align="center" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2800&pause=4000&color=3884FF&center=true&vCenter=true&width=940&lines=Hi there!+I'm++Henrique+✌(-‿-)✌" alt="Hi there! I'm Henrique ✌(-‿-)✌" width="100%" align="center" />
