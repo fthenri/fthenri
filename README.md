@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/e09a2383-f25f-4e9a-bb45-62fc5b1e4067" alt="Hey there, I'm Henri. I'm a data analyst, a student. Check out my work" width="960" height="460">
+<img src="https://github.com/user-attachments/assets/a38d9124-60b3-4b5f-80b8-01d3ca90f8f3" alt="Hey there, I'm Henri. I'm a data analyst, a student. Check out my work" width="960" height="460">
 
 # 👋 &nbsp;Hi there
 
