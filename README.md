@@ -22,12 +22,12 @@ I'm currently working on Titanic EDA, a data analysis project focused on the Tit
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeraross&repo=Hotline-Recife&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jeraross/Hotline-Recife) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeraross&repo=CUIDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jeraross/CUIDA) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeraross&repo=Hotline-Recife&bg_color=0d1116&title_color=1971ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jeraross/Hotline-Recife) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeraross&repo=CUIDA&bg_color=0d1116&title_color=1971ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jeraross/CUIDA) 
 
 &nbsp;
 
 ## 📊 &nbsp;Stats
 
-![Henri' Github Stats](https://github-readme-stats.vercel.app/api?username=fthenri&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Henri' Github Stats](https://github-readme-stats.vercel.app/api?username=fthenri&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=1971ff&text_color=a4aacb&icon_color=1971ff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fthenri&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
