@@ -1,4 +1,4 @@
-![Hey there, I'm Henri. I'm a data analyst, a student. Check out my work](https://github.com/fthenri/fthenri/raw/master/header.gif)
+![Hey there, I'm Henri. I'm a data analyst, a student. Check out my work](https://github.com/user-attachments/assets/1e333522-cf3f-408e-805d-056b4e97ae6c)
 
 [![GitHub followers](https://img.shields.io/github/followers/fthenri?logo=GitHub&style=for-the-badge)](https://github.com/fthenri) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/fthenri?logo=github&style=for-the-badge)](https://github.com/fthenri) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/fthenri?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/fthenri)
 
