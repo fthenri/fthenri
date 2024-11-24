@@ -1,4 +1,4 @@
-![Hey there, I'm Henri. I'm a data analyst, a student. Check out my work](https://github.com/user-attachments/assets/1e333522-cf3f-408e-805d-056b4e97ae6c)
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 # 👋 &nbsp;Hi there
 
