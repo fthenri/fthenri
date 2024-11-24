@@ -22,7 +22,7 @@ I'm currently working on Titanic EDA, a data analysis project focused on the Tit
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fthenri&repo=Hotline-Recife&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jeraross/Hotline-Recife) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fthenri&repo=CUIDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jeraross/CUIDA) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeraross&repo=Hotline-Recife&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jeraross/Hotline-Recife) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeraross&repo=CUIDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Jeraross/CUIDA) 
 
 &nbsp;
 
