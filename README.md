@@ -1,4 +1,4 @@
-# 👋 &nbsp;Hi there <img src="https://github.com/user-attachments/assets/68635078-7540-43f5-af72-aefdbf54e13a" alt="." width="26" height="26">
+# &nbsp; <img src="https://github.com/user-attachments/assets/68635078-7540-43f5-af72-aefdbf54e13a" alt="." width="50" height="50"> &nbsp;Hi there 
 
 I'm a software developer based in Brazil. Driven by a passion for building impactful software and tackling interesting technical challenges, I love contributing to open-source projects and creating solutions that make a difference. You can find me on LinkedIn [@fthenri](https://www.linkedin.com/in/fthenri/). Feel free to connect me any time.
 
@@ -8,13 +8,13 @@ I'm a software developer based in Brazil. Driven by a passion for building impac
 
 I'm currently working on my Kanban Project, a web application focused on visualizing and managing personal tasks through different workflow stages. The goal is to create a functional and intuitive board while learning and applying technologies like React for the frontend and Springboot for the backend.
 
-![Kanban board](/assets/titaniceda.png)
+![Kanban board](https://github.com/user-attachments/assets/c8e90425-c101-43a9-8960-c1ac2a2a5e6e)
 
 &nbsp;
 
 ## 🧰 &nbsp;My toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" width="50" height="50"/> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/> &nbsp;<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/> &nbsp;<img src="https://github.com/user-attachments/assets/81457a0f-77fb-4337-94bb-1a6d4ba3bc90" alt="NumPy" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" alt="D3.js" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp; &nbsp; &nbsp;<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
 
 &nbsp;
 
