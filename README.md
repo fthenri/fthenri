@@ -1,6 +1,6 @@
 // <img src="https://github.com/user-attachments/assets/ca41e7a4-1a18-4f4b-91c7-4dbe1c534530" alt="Hey there, I'm Henri. I'm a data analyst, a student. Check out my work" width="960" height="460">
 
-# 👋 &nbsp;Hi there
+# 👋 &nbsp;Hi there <img src="https://github.com/user-attachments/assets/ca41e7a4-1a18-4f4b-91c7-4dbe1c534530" alt="." width="30" height="30">
 
 I'm a software developer based in Brazil. Driven by a passion for building impactful software and tackling interesting technical challenges, I love contributing to open-source projects and creating solutions that make a difference. You can find me on LinkedIn [@fthenri](https://www.linkedin.com/in/fthenri/). Feel free to connect me any time.
 
