@@ -2,15 +2,15 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a data analyst student based in Brazil, driven by a passion for transforming data into actionable insights. Beyond crunching numbers, I thrive on crafting open-source projects that solve real-world challenges. You can find me on LinkedIn [@fthenri](https://www.linkedin.com/in/fthenri/). Feel free to conect me any time.
+I'm a software developer based in Brazil. Driven by a passion for building impactful software and tackling interesting technical challenges, I love contributing to open-source projects and creating solutions that make a difference. You can find me on LinkedIn [@fthenri](https://www.linkedin.com/in/fthenri/). Feel free to connect me any time.
 
 &nbsp;
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on Titanic EDA, a data analysis project focused on the Titanic dataset. The goal is to explore the data, uncover patterns related to survival rates, and gain insights using techniques like data visualization, feature analysis, and preprocessing.
+I'm currently working on my Kanban Project, a web application focused on visualizing and managing personal tasks through different workflow stages. The goal is to create a functional and intuitive board while learning and applying technologies like React for the frontend and Springboot for the backend.
 
-![Titanic EDA](/assets/titaniceda.png)
+![Kanban board](/assets/titaniceda.png)
 
 &nbsp;
 
