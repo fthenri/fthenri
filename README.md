@@ -6,7 +6,9 @@ I'm a software developer based in Brazil. Driven by a passion for building impac
 
 ## 👇 &nbsp;Current project
 
-Currently working on college projects and making my own time management tool that you can check bellow 👇
+### Minnu: Focus & Reward Productivity App
+
+Minnu is a simple, single-page productivity web app built with vanilla JavaScript to help you organize tasks, plan your focus sessions, and track your study time. It uses a weight-based system to automatically allocate time for your daily goals and rewards your focus with break time.
 
 ![MINNU](https://github.com/user-attachments/assets/354c552b-42d0-4bbf-abb6-504cadb95d08)
 
@@ -33,5 +35,3 @@ Currently working on college projects and making my own time management tool tha
 ## 📊 &nbsp;Stats
 
 ![Henri' Github Stats](https://github-readme-stats.vercel.app/api?username=fthenri&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=1971ff&text_color=a4aacb&icon_color=1971ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fthenri&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
