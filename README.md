@@ -6,11 +6,11 @@ I'm a software developer based in Brazil. Driven by a passion for building impac
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on my Kanban Project, a web application focused on visualizing and managing personal tasks through different workflow stages. The goal is to create a functional and intuitive board while learning and applying technologies like React for the frontend and Springboot for the backend.
+Currently working on college projects and making my own time management tool that you can check bellow 👇
 
-![Kanban board](https://github.com/user-attachments/assets/c8e90425-c101-43a9-8960-c1ac2a2a5e6e)
+![MINNU](https://github.com/user-attachments/assets/354c552b-42d0-4bbf-abb6-504cadb95d08)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Full-Stack-EXP&repo=MyKanban&bg_color=0d1116&title_color=1971ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Full-Stack-EXP/MyKanban) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Full-Stack-EXP&repo=Minnu&bg_color=0d1116&title_color=1971ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Full-Stack-EXP/Minnu) &nbsp;
 
 &nbsp;
 
