@@ -10,6 +10,8 @@ I'm a software developer based in Brazil. Driven by a passion for building impac
 
 Minnu is a simple, single-page productivity web app built with vanilla JavaScript to help you organize tasks, plan your focus sessions, and track your study time. It uses a weight-based system to automatically allocate time for your daily goals and rewards your focus with break time.
 
+Check it out 👉 https://full-stack-exp.github.io/Minnu/ 
+
 ![MINNU](https://github.com/user-attachments/assets/354c552b-42d0-4bbf-abb6-504cadb95d08)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Full-Stack-EXP&repo=Minnu&bg_color=0d1116&title_color=1971ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Full-Stack-EXP/Minnu) &nbsp;
