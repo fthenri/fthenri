@@ -11,4 +11,4 @@ I'm a software developer based in Brazil. Driven by a passion for building impac
 
 # 📊 &nbsp;Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=fthenri&theme=dark&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=fthenri&theme=dark&hide_border=true)
