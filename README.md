@@ -1,6 +1,6 @@
 # &nbsp; <img src="https://github.com/user-attachments/assets/68635078-7540-43f5-af72-aefdbf54e13a" alt="." width="50" height="50"> &nbsp;Hi there 
 
-I'm a software developer based in Brazil. Driven by a passion for building impactful software and tackling interesting technical challenges, I love contributing to open-source projects and creating solutions that make a difference. You can find me on LinkedIn [@fthenri](https://www.linkedin.com/in/fthenri/). Feel free to connect me any time.
+I'm a software developer based in Brazil. You can find me on LinkedIn [@fthenri](https://www.linkedin.com/in/fthenri/). Feel free to connect me any time.
 
 &nbsp;
 
